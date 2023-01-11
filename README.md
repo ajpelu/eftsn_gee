@@ -6,6 +6,7 @@ This code was used for the generation of the following dataset, which is deposit
 
 > Cazorla BP, Cabello J, Reyes A, Guirado E, Peñas J, Pérez-Luque AJ, Alcaraz-Segura D. (2019). Ecosystem functioning and functional diversity of Sierra Nevada (SE Spain). University of Almería and Granada, [doi: 10.1594/PANGAEA.904575](https://doi.pangaea.de/10.1594/PANGAEA.904575)
 
+The code could be accessed directly on Google Earth Engine, using this [link](https://code.earthengine.google.com/246dee63522ae557603ab7e44bdbbad5). 
 
 A data Paper with the description of the methods, dataset and study cases is under revision at *Earth System Science Data*. See [here](https://essd.copernicus.org/preprints/essd-2021-223/#discussion)
 
