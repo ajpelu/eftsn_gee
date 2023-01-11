@@ -1,5 +1,7 @@
 # Ecosystem Functional Types for Sierra Nevada (southern Spain) GEE code
 
+[![DOI](https://zenodo.org/badge/587690912.svg)](https://zenodo.org/badge/latestdoi/587690912)
+
 This repository contains the Google Earth Engine (GEEE) code used to compute the Ecosystem Functional Attributes (EFAs) and Ecosystem Functional Types (EFTs) of a specific period (2001-2018) for Sierra Nevada mountain area (southern Spain). For a detailed description see Cazorla et al. 2021. 
 
 This code was used for the generation of the following dataset, which is deposited in PANGAEA: 
@@ -14,6 +16,8 @@ In addition an app for the visualization of the dataset and the download of the 
 
 ## Credits 
 - GEE code authors: D Alcaraz-Segura, J Blanco, C Bagnato, J Cintas, B Cazorla.( CAESCG, University of Almería and Dept. of Botany, University of Granada (Spain)) 
+
+[![DOI](https://zenodo.org/badge/587690912.svg)](https://zenodo.org/badge/latestdoi/587690912)
 
 ## Contact 
 - [Pérez-Cazorla, B.](b.cazorla@ual.es)
